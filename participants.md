@@ -1,2 +1,3 @@
 -florianm : HTML, CSS, Python
 -Alexandre : HTML, CSS, Python
+-Leandre : HTML, CSS, PYTHON
