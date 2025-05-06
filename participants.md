@@ -1,1 +1,1 @@
-- Gregory : HTML, CSS, Python
+Gregory : HTML, CSS, Python
