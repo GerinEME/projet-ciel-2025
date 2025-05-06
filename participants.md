@@ -1,1 +1,2 @@
 - Michael : HTML, CSS, Python
+- Sebastien : HTML, CSS, Python
